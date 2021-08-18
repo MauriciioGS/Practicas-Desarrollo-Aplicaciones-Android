@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Primary-->
+    <color name="cyan_p">#4dd0e1</color>
+    <!--Primary Night-->
+    <color name="cyan_ni">#006064</color>
+    <!--Dark Primary L-->
+    <color name="dp_color">#4e342e</color>
+    <!--Dark Primary Drk-->
+    <color name="dp_color_d">#3e2723</color>
+    <!--Accent-->
+    <color name="accent">#e64a19</color>
+    <color name="accent_ni">#bf360c</color>
+
+    <color name="light_cyan">#B2EBF2</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="black">#212121</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
